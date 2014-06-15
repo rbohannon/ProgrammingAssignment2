@@ -1,5 +1,5 @@
 # File: cachematrix.R
-# Purpose: Contains functions for calclating the inverse of a matrix and
+# Purpose: Contains functions for calculating the inverse of a matrix and
 #          caching it so it can be recalled without recalculating it.
 # Author: Randy Bohannon
 # Date: 2014-06-10
